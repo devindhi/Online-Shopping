@@ -1,0 +1,19 @@
+c1001,shirt,54,Clothing
+w,d,4,Clothing
+001,Product 1,5,null
+002,Product 2,8,null
+001,Product 1,5,null
+002,Product 2,8,null
+1,Product1,10,null
+2,Product2,20,null
+1,Product1,10,null
+2,Product2,20,null
+1,Product1,10,null
+2,Product2,20,null
+1,Product1,10,null
+2,Product2,10,null
+1,Product1,10,null
+2,Product2,10,null
+1,laptop,3,Electronic
+3,d,4,Clothing
+t,g,5,Clothing
